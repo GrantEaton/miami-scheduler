@@ -2,7 +2,9 @@
 Website for scheduling courses at Miami University - Oxford. www.miamischeduler.com
 
 ## Setup
-
+Clone the repo.
+cd into the main directory.
+run an `npm install`
 ### Database
 ```
 brew install postgres
